@@ -22,8 +22,9 @@ Manambahkan data mahasiswa sebagai percobaan untuk dihapus
 Tampil data mahasiswa baru yang telah ditambahkan
 <img src="assets/tampilmhs3.png" alt="Tampil Mahasiswa" width="600"/>
 
-Ketika dilakukan klik pada button hapus, maka akan muncul alert sebagai konfirmasi penghapusan data
-<img src="assets/hapusmhs.png" alt="Hapus Mahasiswa" width="600"/>
+Ketika dilakukan klik pada button hapus, maka akan muncul alert sebagai pesan konfirmasi sebelumnya dilakukan  penghapusan data
+
+<img src="assets/konfirmasimhs.png" alt="Hapus Mahasiswa" width="600"/>
 
 Berikut adalah tampilan dari hasil penghapusan mahasiswa "Nikeisha Hanum Wijaya"
 <img src="assets/tampilmhs2.png" alt="Tampil Mahasiswa" width="600"/>
